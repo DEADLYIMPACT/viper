@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Viper</string>
+    <string name="newHighScore">NOVO RECORDE!</string>
+    <string name="stats">ESTATÍSTICAS</string>
+    <string name="mode">MODO</string>
+    <string name="highscore">PONTUAÇÃO MÁXIMA</string>
+    <string name="total_score">PONTUAÇÃO TOTAL</string>
+    <string name="games_played">JOGOS JOGADOS</string>
+    <string name="average">MÉDIA</string>
+    <string name="play">JOGAR</string>
+    <string name="classic">CLÁSSICA</string>
+    <string name="no_walls">SEM PAREDES</string>
+    <string name="_3_x_food">3 X COMIDA</string>
+    <string name="_5_x_food">5 X COMIDA</string>
+    <string name="practice">PRÁTICA</string>
+    <string name="practice_stats">NÃO HÁ ESTATÍSTICAS PARA O MODO DE PRÁTICA!</string>
+    <string name="settings">DEFINIÇÕES</string>
+    <string name="skin">PELE</string>
+    <string name="red">VERMELHA</string>
+    <string name="green">VERDE</string>
+    <string name="blue">AZUL</string>
+    <string name="yellow">AMARELA</string>
+    <string name="cyan">CIANO</string>
+    <string name="magenta">MAGENTA</string>
+    <string name="orange">LARANJA</string>
+    <string name="violet">TOLET</string>
+    <string name="brown">CASTANHA</string>
+    <string name="black">PRETA</string>
+    <string name="gray">CINZENTA</string>
+    <string name="white">BRANCA</string>
+    <string name="lang_change">LÍNGUA</string>
+    <string name="VIPER_RULES">VIPER! UM JOGO ONDE VOCÊ DESLIZA SE ESFORÇANDO A SI MESMO E ÀS FRONTEIRAS, PARA COMER MAÇÃS, MAIOR E GANHE A MAIOR PONTUAÇÃO!\n\nDESLIZE ATRAVÉS DA TELA EM CADA DIREÇÃO PARA GIRAR O VIPER NESSA DIREÇÃO. CLARO QUE VOCÊ NÃO PODE DESLIZAR E GIRAR NA DIREÇÃO OPOSTA.\n\nATENÇÃO! Bata a si mesmo ou às paredes, e você morre!\n\nSEU OBJETIVO PRINCIPAL É COMER MAÇÃS. COMENDO CADA MAÇÃ, VOCÊ FICA MAIS E MAIS TEMPO.\n\nEXISTEM 4 TIPOS DIFERENTES DE MAÇÃS, CADA VALE OS DIFERENTES VALORES DE PONTO:\n\nMAÇÃS VERMELHAS: 10 PONTOS\n\nMAÇÃS DE PRATA: 20 PONTOS\n\nMAÇÃS DOURADAS: 30 PONTOS\n\nMAÇÃS ROXAS MÍSTICAS: 50 PONTOS\n\nQUANTO MAIS PONTOS A MAÇÃ, MAIS RARA!\n\nNÃO DEMORE DEMASIADO PARA OBTER SUA MAÇÃ, POIS ELES DESAPARECEM DEPOIS DE ALGUM TEMPO! MAIS RARA A MAÇÃ, MAIS RÁPIDO VAI.\n\nACESSE O BOTÃO PAUSAR / JOGAR NO TOPO PARA PAUSAR / RETOMAR O SEU JOGO.\n\nSE VOCÊ QUISER TERMINAR O JOGO IMEDIATAMENTE, CLIQUE NA CRUZ NO CIMA À DIREITA DA TELA DO JOGO.\n\nACERTAR O BOTÃO DE MODO DE JOGO ABAIXO DO BOTÃO DE JOGO PERMITE ALTERAR O MODO DE JOGO.\n\nEXISTEM 5 MODOS DE JOGO:\n\nCLÁSSICO: VIPER NORMAL, SE VOCÊ BATIR NAS PAREDES OU VOCÊ MESMO, VOCÊ MORRE.\n\nSEM PAREDES: AGORA NÃO SÃO PERIGOSAS. ENTRAR EM UMA PAREDE LEVA VOCÊ PARA O OUTRO LADO.\n\n3 X COMIDA: NORMAL, EXCETO 3 MAÇÃS SPAWN DE CADA VEZ\n\n5 X COMIDA: NORMAL, EXCETO 5 MAÇÃS ESPANHADAS DE CADA VEZ\n\nPRÁTICA: EXISTE SÓ PARA PRÁTICA, NÃO MORRER! CLIQUE NA CRUZ PARA SAIR\n\nNA BARRA INFERIOR HÁ 4 BOTÕES\n\nÀ ESQUERDA, EXISTE O BOTÃO STATS. CLIQUE PARA ABRIR SUAS ESTATÍSTICAS.\n\nÀ DIREITA DE ISSO, A ESTRELA! SE VOCÊ GOSTAR DO APP, CONSIDERE DEIXAR UMA CLASSIFICAÇÃO. É GRÁTIS!\n\nÀ DIREITA DE ISSO, AS PELES! CLICAR ABRE UM DIÁLOGO PARA ALTERAR A COR DO VIPERS.\n\nÀ DIREITA, O BOTÃO DE CONFIGURAÇÕES. ABRIR O DIÁLOGO DE CONFIGURAÇÕES PERMITE ALTERAR O VOLUME, O IDIOMA E ABRIR ESTAS INSTRUÇÕES.\n\nISSO ESTÁ TUDO PARA AS INSTRUÇÕES. DIVIRTA-SE!\n\n</string>
+    <string name="instructions">INSTRUÇÕES</string>
+</resources>

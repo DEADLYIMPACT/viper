@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Viper</string>
+    <string name="newHighScore">¡NUEVO RECORD!</string>
+    <string name="mode">MODO</string>
+    <string name="highscore">RECORD</string>
+    <string name="play">TOCAR</string>
+    <string name="classic">CLÁSICO</string>
+    <string name="practice_stats">¡NO HAY ESTADÍSTICAS PARA EL MODO DE PRÁCTICA!</string>
+    <string name="total_score">PUNTAJE TOTAL</string>
+    <string name="games_played">JUEGOS JUGADOS</string>
+    <string name="average">PROMEDIO</string>
+    <string name="no_walls">SIN PAREDES</string>
+    <string name="_3_x_food">3 X COMIDA</string>
+    <string name="stats">ESTADÍSTICAS</string>
+    <string name="_5_x_food">5 X COMIDA</string>
+    <string name="practice">PRÁCTICA</string>
+    <string name="settings">AJUSTES</string>
+    <string name="skin">PIEL</string>
+    <string name="red">ROJA</string>
+    <string name="green">VERDE</string>
+    <string name="blue">AZUL</string>
+    <string name="yellow">AMARILLA</string>
+    <string name="cyan">CYAN</string>
+    <string name="magenta">MAGENTA</string>
+    <string name="orange">NARANJA</string>
+    <string name="violet">VIOLETA</string>
+    <string name="brown">MARRÓN</string>
+    <string name="black">NEGRA</string>
+    <string name="gray">GRIS</string>
+    <string name="white">BLANCA</string>
+    <string name="lang_change">IDIOMA</string>
+    <string name="VIPER_RULES">¡VIPER! ¡UN JUEGO DONDE SE DESLIZA ALREDEDOR DE USTED MISMO Y DE LAS FRONTERAS, PARA COMER MANZANAS, SER MÁS GRANDE Y GANAR LA MAYOR PUNTUACIÓN!\n\nDESLIZA A TRAVÉS DE LA PANTALLA EN CADA DIRECCIÓN PARA GIRAR A VIPER EN ESA DIRECCIÓN. POR SUPUESTO, NO PUEDE PASAR Y GIRAR EN LA DIRECCIÓN OPUESTA.\n\n¡CUIDADO! ¡GOLPESE O GOLPE LAS PAREDES Y MORIRÁ!\n\nSU OBJETIVO PRINCIPAL ES COMER MANZANAS. COMIENDO CADA MANZANA, USTED CONSIGUE MÁS Y MÁS.\n\nHAY 4 TIPOS DIFERENTES DE MANZANAS, CADA UNO CON VALORES DE PUNTOS DIFERENTES:\n\nMANZANAS ROJAS: 10 PUNTOS\n\nMANZANAS PLATA: 20 PUNTOS\n\nMANZANAS DORADAS: 30 PUNTOS\n\nMANZANAS MÍSTICAS MORADAS: 50 PUNTOS\n\n¡CUANTOS MÁS PUNTOS TIENE LA MANZANA, MÁS RARO ES!\n\n¡NO TARDES DEMASIADO EN CONSEGUIR TU MANZANA, PORQUE DESAPARECEN DESPUÉS DE UN TIEMPO! MÁS RARO LA MANZANA, MÁS RÁPIDO VA.\n\nPRESIONE EL BOTÓN PAUSA / REPRODUCIR EN LA PARTE SUPERIOR PARA PAUSAR / REANUDAR SU JUEGO.\n\nSI ALGUNA VEZ QUIERES TERMINAR EL JUEGO AL INSTANTE, HAZ CLIC EN EL CRUZ EN LA PARTE SUPERIOR DERECHA DE LA PANTALLA DEL JUEGO.\n\nPULSAR EL BOTÓN DE MODO DE JUEGO DEBAJO DEL BOTÓN DE JUEGO LE PERMITE CAMBIAR EL MODO DE JUEGO. HAY 5 MODOS DE JUEGO:\n\nCLÁSICO: VIPER NORMAL, DONDE SI GOLPES A LAS PAREDES O A TI MISMO, PERDERÁS.\n\nNO HAY PAREDES: LAS PAREDES AHORA NO SON PELIGROSAS. ENTRAR EN UNA PARED TE LLEVA AL OTRO LADO.\n\n3 X ALIMENTOS: NORMAL, EXCEPTO 3 MANZANAS QUE SE APARAN A LA VEZ.\n\n5 X ALIMENTOS: NORMAL, EXCEPTO 5 MANZANAS QUE SE APARAN A LA VEZ.\n\nPRÁCTICA: ¡SOLO EXISTE PARA LA PRÁCTICA, NO MORIR! HAGA CLIC EN LA CRUZ PARA SALIR.\n\nEN LA BARRA INFERIOR HAY 4 BOTONES\n\nA LA IZQUIERDA, ESTÁ EL BOTÓN DE ESTADÍSTICAS. HAGA CLIC PARA ABRIR SUS ESTADÍSTICAS.\n\nA LA DERECHA DE ESO, ¡LA ESTRELLA! SI DISFRUTA DE LA APLICACIÓN, CONSIDERE DEJAR UNA CALIFICACIÓN. ¡ES GRATIS!\n\nA LA DERECHA DE ESO, LAS PIELES! AL HACER CLIC EN ELLA SE ABRE UN DIÁLOGO PARA CAMBIAR EL COLOR DE LOS VIPERS.\n\nA LA DERECHA, EL BOTÓN DE AJUSTES. ABRIR EL DIÁLOGO DE AJUSTES LE PERMITE CAMBIAR EL VOLUMEN, EL IDIOMA Y ABRIR ESTAS INSTRUCCIONES.\n\nESO ES TODO POR LAS INSTRUCCIONES. ¡DIVERTIRSE!\n\n</string>
+    <string name="instructions">INSTRUCCIONES</string>
+</resources>

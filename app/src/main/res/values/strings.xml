@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Viper</string>
+    <string name="newHighScore">NEW HIGH SCORE!</string>
+    <string name="stats">STATS</string>
+    <string name="mode">MODE</string>
+    <string name="highscore">HIGHSCORE</string>
+    <string name="total_score">TOTAL SCORE</string>
+    <string name="games_played">GAMES PLAYED</string>
+    <string name="average">AVERAGE</string>
+    <string name="play">PLAY</string>
+    <string name="classic">CLASSIC</string>
+    <string name="no_walls">NO WALLS</string>
+    <string name="_3_x_food">3 X FOOD</string>
+    <string name="_5_x_food">5 X FOOD</string>
+    <string name="practice">PRACTICE</string>
+    <string name="practice_stats">THERE ARE NO STATS FOR PRACTICE MODE!</string>
+    <string name="settings">SETTINGS</string>
+    <string name="skin">SKIN</string>
+    <string name="red">RED</string>
+    <string name="green">GREEN</string>
+    <string name="blue">BLUE</string>
+    <string name="yellow">YELLOW</string>
+    <string name="cyan">CYAN</string>
+    <string name="magenta">MAGENTA</string>
+    <string name="orange">ORANGE</string>
+    <string name="violet">VIOLET</string>
+    <string name="brown">BROWN</string>
+    <string name="black">BLACK</string>
+    <string name="gray">GRAY</string>
+    <string name="white">WHITE</string>
+    <string name="lang_change">LANGUAGE</string>
+    <string name="instructions">INSTRUCTIONS</string>
+    <string name="VIPER_RULES">VIPER! A GAME WHERE YOU SLITHER AROUND DODGING YOURSELF AND THE BORDERS, TO EAT APPLES, GET BIGGER AND EARN THE HIGHEST SCORE!\n\nSWIPE ACROSS THE SCREEN IN EACH DIRECTION TO TURN VIPER IN THAT DIRECTION. OF COURSE YOU CANNOT SWIPE AND TURN IN THE OPPOSITE DIRECTION.\n\nWATCH OUT! HIT YOURSELF OR HIT THE WALLS, AND YOU DIE!\n\nYOUR MAIN GOAL IS TO EAT APPLES. EATING EACH APPLE, YOU GET LONGER AND LONGER.\n\nTHERE ARE 4 DIFFERENT TYPES OF APPLES, EACH WORTH DIFFERENT POINT VALUES:\n\nRED APPLES: 10 POINTS\n\nSILVER APPLES: 20 POINTS\n\nGOLDEN APPLES: 30 POINTS\n\nMYSTICAL PURPLE APPLES: 50 POINTS\n\nTHE MORE POINTS THE APPLE IS, THE RARER IT IS!\n\nDONT TAKE TOO LONG TO GET YOUR APPLE, BECAUSE THEY DISAPPEAR AFTER SOME TIME! RARER THE APPLE, FASTER IT GOES.\n\nHIT THE PAUSE/PLAY BUTTON ON THE TOP TO PAUSE/RESUME YOUR GAME.\n\nIF YOU EVER WANT TO END THE GAME INSTANTLY, CLICK THE CROSS ON THE TOP RIGHT OF THE GAME SCREEN.\n\nHITTING THE GAME MODE BUTTON BELOW THE PLAY BUTTON ALLOWS YOU TO CHANGE GAME MODE.\n\nTHERE ARE 5 GAME MODES:\n\nCLASSIC: NORMAL VIPER, WHERE IF YOU HIT THE WALLS OR YOURSELF, YOU PERISH.\n\nNO WALLS: WALLS ARE NOW NOT DANGEROUS. GOING INTO ONE WALL TAKES YOU TO THE OTHER SIDE.\n\n3 X FOOD: NORMAL, EXCEPT 3 APPLES SPAWN AT A TIME.\n\n5 X FOOD: NORMAL, EXCEPT 5 APPLES SPAWN AT A TIME.\n\nPRACTICE: ONLY EXISTS FOR PRACTICE, NO DYING! CLICK THE CROSS TO EXIT.\n\nON THE BOTTOM BAR THERE ARE 4 BUTTONS\n\nON THE LEFT, THERE IS THE STATS BUTTON. CLICK IT TO OPEN YOUR STATS.\n\nTO THE RIGHT OF THAT, THE STAR! IF YOU ENJOY THE APP CONSIDER LEAVING A RATING. ITS FREE!\n\nTO THE RIGHT OF THAT, THE SKINS! CLICKING IT OPENS A DIALOG TO CHANGE VIPERS COLOR.\n\nAT THE FAR RIGHT, THE SETTINGS BUTTON. OPENING THE SETTINGS DIALOG ALLOWS YOU TO CHANGE VOLUME, LANGUAGE, AND OPEN THESE INSTRUCTIONS.\n\nTHATS ALL FOR THE INSTRUCTIONS. HAVE FUN!\n\n</string>
+</resources>

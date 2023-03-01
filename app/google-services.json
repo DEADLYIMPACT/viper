@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745674831037",
+    "project_id": "viper-7eb81",
+    "storage_bucket": "viper-7eb81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745674831037:android:82b7af6e87682df22a73d4",
+        "android_client_info": {
+          "package_name": "com.games.viper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745674831037-2j19g472vm3pa95ve2v3tdtfd5crjl7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJP-hu5_2eOgQumezQoM9XjWSINsjtBtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745674831037-2j19g472vm3pa95ve2v3tdtfd5crjl7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
